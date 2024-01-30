@@ -21,3 +21,12 @@ When user uploads an image and clicks on the 'Describe Image' button, the web pa
 - app.py: python file with the complete code
 - requirements.txt : text file with required files
 - few jpg, jpeg, png files
+
+
+##
+<img width="374" alt="image" src="https://github.com/vishnuvardhan-jadava/Describe_Image_usin_GenAI/assets/83878754/000ab24c-a9c8-49b1-b532-63e5f2c81786">
+##
+<img width="295" alt="image" src="https://github.com/vishnuvardhan-jadava/Describe_Image_usin_GenAI/assets/83878754/61d618fd-7b61-457d-8cda-4ba321173273">
+##
+<img width="295" alt="image" src="https://github.com/vishnuvardhan-jadava/Describe_Image_usin_GenAI/assets/83878754/7b15d11a-c556-4cb3-800a-1c0c039421a7">
+
